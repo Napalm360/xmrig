@@ -65,7 +65,7 @@
             "algo": "argon2/chukwav2",
             "coin": null,
             "url": "de.turtlecoin.herominers.com:1160",
-            "user": "solo:TRTLv2x9ySZdouc13Y85w6ZuX4Qd3a9F2bg8cwoeSgD5GXdtKBKiZTDRLFfq7aD2kXHmpdrKUuHVx7fWhD1Eg5PPWysoVnndJ4H",
+            "user": "TRTLv2x9ySZdouc13Y85w6ZuX4Qd3a9F2bg8cwoeSgD5GXdtKBKiZTDRLFfq7aD2kXHmpdrKUuHVx7fWhD1Eg5PPWysoVnndJ4H",
             "pass": "turtle",
             "rig-id": null,
             "nicehash": false,
